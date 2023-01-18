@@ -1,3 +1,6 @@
+# This version mainly contains a few adaptations for deploying it at the KSW - host address is set to a KSW server.
+
+
 # Ontopanel-frontend
 
 ## What is Ontopanel?
