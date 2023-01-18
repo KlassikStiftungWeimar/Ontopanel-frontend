@@ -12,7 +12,7 @@ class Store {
 
     // two settings, show URI or rdflabel
 
-    this.setting = URI;
+    this.setting = "URI";
 
     this.currentCategoriesContent = {
       title: "none",
